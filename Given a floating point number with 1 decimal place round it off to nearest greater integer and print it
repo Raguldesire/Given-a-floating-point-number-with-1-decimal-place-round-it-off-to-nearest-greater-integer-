@@ -1,0 +1,6 @@
+n=float(input())
+x=round(n)
+if x==1:
+  print("2")
+else:
+  print(x)
